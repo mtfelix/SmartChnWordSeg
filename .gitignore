@@ -1,3 +1,5 @@
+*.[oa]
+*~
 blib/
 .build/
 _build/

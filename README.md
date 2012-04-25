@@ -11,7 +11,7 @@ This is especially usefull for the segmentation of techinical texts which
 involving lots of technical terms. 
 
 We try to let it speedy using some tricks.
-Wish you all like it.
+Wish you all like it. ^-^
 
 Hongfei Jiang 
 hf.jiang@gmail.com
